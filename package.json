@@ -1,0 +1,24 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "Custom Server API using Express, Insomnia Core, and Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimPrimmer/zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimPrimmer/zookeeper/issues"
+  },
+  "homepage": "https://github.com/TimPrimmer/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
